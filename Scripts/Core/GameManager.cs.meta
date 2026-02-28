@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ea2b689baf980664986206fbe55de16c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - menuData: {fileID: 11400000, guid: 4a4fb5406abd8b24c9d22ae20b505766, type: 2}
+  - gamePlayData: {fileID: 11400000, guid: 12c40358f3037f44e9e00b428ff3c27f, type: 2}
+  - gameOverData: {fileID: 11400000, guid: 85395739820480d4e806284bdb282afc, type: 2}
+  - winData: {fileID: 11400000, guid: 0a26c66f512a0b84e9fdf6b551099d51, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

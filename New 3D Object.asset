@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87c6f283e9cb82943803c0517ae19a65, type: 3}
+  m_Name: New 3D Object
+  m_EditorClassIdentifier: Assembly-CSharp::Assets.CreateObjects.Object3DAsset
+  objectName: 
+  prefab: {fileID: 0}
+  icon: {fileID: 0}
+  position: {x: 0, y: 0, z: 0}
+  rotation: {x: 0, y: 0, z: 0}
+  scale: {x: 1, y: 1, z: 1}
+  hasRigidbody: 0
+  mass: 1
+  drag: 0
+  angularDrag: 0.05
+  useGravity: 1
+  isKinematic: 0
+  collisionDetectionMode: 0
+  interpolate: 0
+  colliderType: 1
+  isTrigger: 0
+  colliderSize: {x: 1, y: 1, z: 1}
+  colliderRadius: 0.5
+  colliderHeight: 2
+  materials: []
+  castShadows: 1
+  receiveShadows: 1
+  tag: Untagged
+  layer: 0
+  sounds: []
+  effects: []
+  description: 

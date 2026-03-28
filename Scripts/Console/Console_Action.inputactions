@@ -1,0 +1,35 @@
+{
+    "version": 1,
+    "name": "Console_Action",
+    "maps": [
+        {
+            "name": "button_console",
+            "id": "fe1253d6-6107-4a7c-b875-a5dce0fe21b0",
+            "actions": [
+                {
+                    "name": "button_1",
+                    "type": "Button",
+                    "id": "90367eb6-296d-4733-80c3-1c2c850d4d87",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "70a99ba4-a092-41d3-b516-2e3f18504d9f",
+                    "path": "<Keyboard>/backquote",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "button_1",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
